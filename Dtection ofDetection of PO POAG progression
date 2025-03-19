@@ -4,7 +4,7 @@ import itertools, random
 from math import comb
 from scipy import stats
 
-# -----------------------------
+
 # Step 1. Read the input Excel file
 # -----------------------------
 data_file = r""
